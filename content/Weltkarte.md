@@ -4,7 +4,7 @@ Im Süden erstreckt sich das Reich der Ænar von den Küstengebieten Mænos bis 
 Die Halbinsel der Faulöde im Osten des Königsspiegels ist die Heimstätte der Zwerge. Einige ihrer Rohstoffe für ihre kunstfertigen Produktionen stammen aus dem Festland im Tal der Seihsenke. 
 Nur wenige trauen sich in das Zentralmassiv der Insel, den Klammwall. Dieser gilt neben dem im Schwarzheim gelegenen "Schlund" als Hochburg der Schattenbrut. Somit bleibt der eisige Norden der Insel nur über große Umwege oder Anstrengungen erreichbar.
 
-![[content/M_preview.jpg]]
+![Mærhall](content/M_preview.jpg)
 
 Roadmap:
 - Support für interaktives Ein- und Auszoomen in Karte
