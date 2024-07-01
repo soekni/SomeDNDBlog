@@ -10,10 +10,15 @@ Auf dieser Seite möchte ich auflisten, was noch auf die "Roadmap" zur technisch
 |  2   |              Hinzufügen Kommentarspalte              |        ✨        |   🗿    |
 |  1   |             Neue Anordnung Blogeinträge              |       ⛏️        |   🗿    |
 |      |     Unterstützung für Darstellung auf Smartphone     |                 |   🗿    |
+
 Legende:
+
 ⛏️ - arbeite dran
+
 ✨ - gute Idee, muss aber noch schauen, wie leicht das einzubauen ist
+
 👺 - we don't talk about it anymore (= hab's aufgegeben)
+
 𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ - Implementierung möglich, aber schwer und braucht viel Magic
 
-Wenn ihr auch Ideen einbringt, dürft ihr euch sogar mit einem eigenen Emoji in der Tabelle verewigen!
+**Wenn ihr auch Ideen einbringt, dürft ihr euch sogar mit einem eigenen Emoji in der Tabelle verewigen!**
