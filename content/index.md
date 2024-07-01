@@ -18,12 +18,16 @@ Die unmittelbare Bedrohung in Freick ist nur Vorbote einer größeren, lauernden
 
 **Seid gegrüßt, Reisende!**
 
-Auf den folgenden Seiten könnt ihr euch über die Spielwelt erkundigen:
+Auf den folgenden Seiten könnt ihr euch über die Spielwelt und Lore erkundigen. Diese werden mit neuen Informationen (von euch und mir) nach jeder Session aktualisiert. 
+Bisher sind folgende Themen enthalten:
 
 - Orte
-- Weltkarte
+- Kartenmaterial
 - Völker
 - Session Recaps
 - Heldencharaktere
+- Roadmap für die [[Pflege dieses Blogs]]
+- und bald noch viel mehr!
 
-Mögen diese Informationen nützlich sein für die Erstellung eurer Charaktere.
+Mögen diese Informationen nützlich sein für die Schöpfung eurer Charaktere und künftige Spielideen zu Tage fördern. 🌋
+
