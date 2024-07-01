@@ -10,6 +10,7 @@ Auf dieser Seite möchte ich auflisten, was noch auf die "Roadmap" zur technisch
 |  2   |              Hinzufügen Kommentarspalte              |        ✨        |   🗿    |
 |  1   |             Neue Anordnung Blogeinträge              |       ⛏️        |   🗿    |
 |      |     Unterstützung für Darstellung auf Smartphone     |                 |   🗿    |
+|      |    Meme-Referenz Blogpost (ingame oder outside?)     |                 |   🐀    |
 
 Legende:
 
