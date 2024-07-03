@@ -1,7 +1,6 @@
 Hallo ihr Lieben!
 
-Es war schön mit euch, danke für diese erste/nullte Session!
-
+Es war schön mit euch, danke für diese erste/nullte Session! <br>
 Hier ein paar Anregungen/Fragen, die ihr mir noch beantworten könnt - wenn euch noch was dazu einfallen sollte:
 
 Fragen für Character (1+3 sind bitte zu beantworten):
