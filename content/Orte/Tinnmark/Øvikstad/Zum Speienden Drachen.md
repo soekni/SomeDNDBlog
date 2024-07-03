@@ -1,1 +1,4 @@
-Diese lebhafte Taverne liegt an der Großen Weststraße von Øvikstad und ist ein beliebter Treffpunkt insbesondere unter den Drachenblütigen. Niemand weiß so recht, ob dieser Umstand vom Lokalgetränk *Feuerwasser* rührt oder von speienden Drachenblütigen - oder beidem.
+Diese lebhafte Taverne liegt an der Großen Weststraße von [[Øvikstad]] und ist ein beliebter Treffpunkt insbesondere unter den Drachenblütigen. Niemand weiß so recht, ob dieser Umstand vom Lokalgetränk *Feuerwasser* rührt oder von speienden Drachenblütigen - oder beidem.
+
+Hier findet jeden Neumond ein Gwent-Turnier statt. Ebenso mutiert das Lokal jeden Vollmond zum schillernden "Tanz-Schuppen" - ein Event, das vielleicht besser als jedes andere der Verständigung zwischen den verschiedenen Einwohnern Øvikstads beiträgt. 
+Ein Spiegelsaal sorgt - zusammen mit den richtigen Tänzern - auf dem Parkett für ein Kaleidoskop unterschiedlichster Muster und Couleur. Wer das nicht erleben will, hat echt keinen Schimmer!
