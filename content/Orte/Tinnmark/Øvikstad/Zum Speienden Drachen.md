@@ -1,0 +1,1 @@
+Diese lebhafte Taverne liegt an der Großen Weststraße von Øvikstad und ist ein beliebter Treffpunkt insbesondere unter den Drachenblütigen. Niemand weiß so recht, ob dieser Umstand vom Lokalgetränk *Feuerwasser* rührt oder von speienden Drachenblütigen - oder beidem.
