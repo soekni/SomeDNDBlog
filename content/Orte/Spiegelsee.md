@@ -1,4 +1,5 @@
 > Wehe dem König, der in den Spiegel blickt und nur sich selber sieht.
+> 
 > *- Thorkel Flosoff*
 
 Eigentlich ein Fjord - von den Anwohnern jedoch liebevoll Spiegelsee genannt, da die Wogen des Meeres hier vergleichsweise *aalglatt* wirken. Andere nutzen den Namen um ihre Abneigung gegenüber den derzeitigen Herrschern der [[Tinnmark]] und [[Faulöde]] zum Ausdruck zu bringen. 
