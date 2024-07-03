@@ -1,0 +1,1 @@
+Ginge es nach den [[Freynar]], würde Øvikstad ohne Mauer auskommen. Allerdings sorgt die einzigartige Lage am [[Spiegelsee]], 
