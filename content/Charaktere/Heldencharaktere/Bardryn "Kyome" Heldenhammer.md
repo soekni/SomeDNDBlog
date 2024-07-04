@@ -14,6 +14,9 @@
 
 -----------------------------------------
 
-**Lore:**
-TBC.
+**Lore:** <br>
+- Zwergin, Paladin
+- Alter: 194 Jahre
+- Heimat: 
+
 
