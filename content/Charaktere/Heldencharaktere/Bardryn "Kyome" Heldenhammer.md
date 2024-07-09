@@ -6,17 +6,18 @@
 |     |                                                       |     |
 
 
-**Stats-Würfe**: 9, 9, 10, 9, 15, 15 ➜ diese noch den Attributen zuweisen (siehe Tabelle unten!)
-
-| ST      | DEX     | KON     | WIS     | INT     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| VALUE?! | VALUE?! | VALUE?! | VALUE?! | VALUE?! | VALUE?! |
+|         | ST  | DEX | KON | WIS | INT | CHA |
+| :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **ATR** | 17  | 10  | 11  |  9  |  9  | 15  |
+| **MOD** | +3  | +0  | +0  | -1  | -1  | +2  |
 
 -----------------------------------------
 
 **Lore:** <br>
 - Zwergin, Paladin
-- Alter: 194 Jahre
-- Heimat: 
+- Alter: 91 Jahre
+- Heimat: Orn'akam auf der [[Faulöde]]
+- max. HP (Lvl 1): 10
+- Sprachen: Zwergisch, Gemeinsprache, Celestisch
 
 
