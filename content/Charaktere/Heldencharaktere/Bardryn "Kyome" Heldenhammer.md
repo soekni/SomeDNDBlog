@@ -1,7 +1,7 @@
 
 
 
-|     | <img src="images/kyome.png" width="450" height="300"> |     |
+|     | <img src="images/kyome.png" width="450" height="350"> |     |
 | --- | ----------------------------------------------------- | --- |
 |     |                                                       |     |
 
