@@ -4,4 +4,4 @@ Weitere Dinge:
 - die Hintergrundgeschichte eures Charakters (tobt euch gern aus)
 - zumindest der ausgefüllte Fragebogen
 - die Stats
-- 
+- euren Charakterbogen (siehe Gruppe)
