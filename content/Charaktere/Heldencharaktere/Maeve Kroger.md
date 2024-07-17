@@ -4,8 +4,6 @@
 |     |                                                       |     |
 
 
-**Stats-Würfe**:  9, 14, 15, 10, 14, 13 ➜ diese noch den Attributen zuweisen (siehe Tabelle unten!)
-
 |         | ST  | DEX | KON | WIS | INT | CHA |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **ATR** |  9  | 14  | 14  | 16  | 14  | 12  |
@@ -13,6 +11,11 @@
 
 ------------------------------
 
-Lore WIP
+**Lore:**
+- Halbelf, Kleriker
+- 28 Jahre, 170cm
+- Heimat: Øvikstad 
+- max. HP (Lvl 1): 10
+- Sprachen: Gemeinsprache, Elfisch, Gnomisch
 
 

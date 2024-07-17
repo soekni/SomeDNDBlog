@@ -11,3 +11,8 @@
 -----------------------------------------
 
 **Lore:** <br>
+- Elf, Druide
+- 225 Jahre, 180cm
+- Heimat: Farenwell im Klammwall 
+- max. HP (Lvl 1): 10
+- Sprachen: Gemeinsprache, Druidisch, Elfisch, Orkisch

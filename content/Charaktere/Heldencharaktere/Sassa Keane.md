@@ -1,6 +1,8 @@
-Bild WIP
 
-**Stats-Würfe**:  12, 14, 14, 14, 8, 10 ➜ diese noch den Attributen zuweisen (siehe Tabelle unten!)
+|     | <img src="images/sassa.png" width="400" height="500"> |     |
+| --- | ----------------------------------------------------- | --- |
+|     |                                                       |     |
+
 
 |         | ST  | DEX | KON | WIS | INT | CHA |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -11,3 +13,7 @@ Bild WIP
 
 **Lore:** <br>
 - Sirene, Schurke
+- 27 Jahre, 180cm
+- Heimat: Grobschnauz-Bank im Seenadel-Archipel 
+- max. HP (Lvl 1): 9
+- Sprachen: Gemeinsprache, Sirenisch, Diebessprache

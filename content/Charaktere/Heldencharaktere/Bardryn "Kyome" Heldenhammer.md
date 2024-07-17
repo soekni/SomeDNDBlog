@@ -1,6 +1,4 @@
 
-
-
 |     | <img src="images/kyome.png" width="450" height="350"> |     |
 | --- | ----------------------------------------------------- | --- |
 |     |                                                       |     |
@@ -14,7 +12,7 @@
 -----------------------------------------
 
 **Lore:** <br>
-- Zwergin, Paladin
+- Zwerg, Paladin
 - Alter: 91 Jahre
 - Heimat: Orn'akam auf der [[Faulöde]]
 - max. HP (Lvl 1): 10
