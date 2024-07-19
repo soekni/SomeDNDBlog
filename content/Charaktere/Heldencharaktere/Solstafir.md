@@ -1,5 +1,5 @@
 
-|     | <img src="images/solstafir.png" width="500" height="375"> |     |
+|     | <img src="images/solstafir.png" width="600" height="600"> |     |
 | --- | --------------------------------------------------------- | --- |
 |     |                                                           |     |
 
