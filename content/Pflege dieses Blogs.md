@@ -14,7 +14,7 @@ Auf dieser Seite möchte ich auflisten, was noch auf die "Roadmap" zur technisch
 |  -   |                Meme-Referenz Blogpost                |       🚩        |
 |  -   |            Explorer zeigt Unterordner an             |        ✅        |
 |  1   |                    Callout-Blocks                    |       ⛏️        |
-|  -   |            New Post Section im Hauptmenü             |        ✅        |
+|  -   |            New Post Section im Hauptmenü             |       👥        |
 
 **\*** aller Voraussicht nach wird das auf ein Umzug der Website mit anderem *StaticSiteGenerator* (läuft momentan über *Quartz*, angepeilte Alternative ist *ObsidianPublish*) hinauslaufen. Aber dann lassen sich das Layout und Design der Blogeinträge intuitiver anpassen - auch das interaktive Ein- und Auszoomen (sowie generell das Aufrufen der Originalabbildungen) wird dadurch möglich. Wird aber noch 'ne Weile dauern.  <br>
 Stattdessen gibt es bald noch ["ausklappbare Wiki-Kapitel"](https://quartz.jzhao.xyz/features/callouts) in längeren Einträgen.
