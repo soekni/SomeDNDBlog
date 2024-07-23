@@ -1,18 +1,53 @@
-# Quartz v4
+# Quartz v4 with giscus
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+My personal Quartz v4 configuration with giscus integrated.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Changes
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+1. original Footer replaced by new component Links and moved to the right pane 
+2. base.scss sidebar flex-wrap changed in order to support Links displayed properly on mobile version
+3. original Footer replaced with Comments component which integrated Quartz with giscus
+4. giscus integrated with Quartz theme change event so that the comment section's theme will change accordingly when Quartz switching between light/dark mode
+5. add giscus.json to prevent comment from blog being abused
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+To see the changes, please refer to [branch: giscus](https://github.com/rickliujh/techblog/compare/v4...giscus)
 
-## Sponsors
+## Custom Components
+### Comments
+Comments component with its inline script `giscus.inline.ts` is responsible to integrate with giscus system and loading comments by leaving a hook `<div>` element with class `giscus` as well as align giscus theme with blog darkmode switching.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+It's doing so by listening event `nav` on window and custom event `change` on ToggleSwitch for update page comment and giscus theme accordingly.
+
+It will ignore `index` which is main page url when `nav` event fired so that the main page of the blog will not shows comments.
+
+See, [giscus.inline.ts](https://github.com/rickliujh/techblog/blob/v4/quartz/components/scripts/giscus.inline.ts), and [Comments.tsx](https://github.com/rickliujh/techblog/blob/v4/quartz/components/Comments.tsx).
+
+### Links
+Links component is a modified Footer component optimized for displaying links on right side pane due to the comments occupied the end of section of the page.
+
+> [!note]
+> On mobile version, the Links will appear on the top of the page just right down on the blog name due to the Quartz layout limitation.
+
+## ctl.sh
+
+ctl.sh is a shell script tool that helps you using quartz cli without install `node` environment in your local machine, by utilizing docker node image as a throw-away container. Using `ctl.sh` is encouraged since the origin quartz docker support is not good enough.
+
+### Usage
+`bash ctl.sh m` to show the menu
+```
+ QUARTZ CTL MENU
+  Options:
+   (0) perview | p => perview blog before publich
+   (1) sync => sync blog to remote repository, or update quartz
+   (2) sync --no-pull | sop => sync blog to remote repository but not update quartz
+   (3) quartz | q => run any quartz support sub commands
+```
+As the instruction of the menu you can use `p` to run a local server to preview, equals to `npx quartz build --serve`, sop to update blog context but not update quartz, and any other command available for quartz cli is available in `ctl.sh` by using command `bash ctl.sh quartz [quartz sub-command]`.
+
+> [!warning]
+> To be able to use ctl.sh you have to make sure three things:
+> - you local environment are able to use git to communicate with github repository
+> - the .ssh/ in your home directory is configured properly for purpose above
+> - the repository has specified user.name and user.email in order to run inside of container environment which don't have global gitconfig setup
+
+Feel free to fork the repository if you want to use giscus with Quartz.
