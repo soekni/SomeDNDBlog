@@ -1,5 +1,5 @@
 
-|     | <img src="images/maeve.png" width="500" height="550"> |     |
+|     | <img src="images/maeve.png" width="500" height="650"> |     |
 | --- | ----------------------------------------------------- | --- |
 |     |                                                       |     |
 
