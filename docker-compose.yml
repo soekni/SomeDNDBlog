@@ -36,6 +36,5 @@ services:
       # Enable it only for the initial comment import or for manual backups.
       # Do not leave the server running with the ADMIN_PASSWD set if you don't have an intention
       # to keep creating backups manually!
-      # - ADMIN_PASSWD=<your secret password>
     volumes:
       - ./var:/srv/var
