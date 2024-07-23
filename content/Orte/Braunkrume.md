@@ -6,7 +6,4 @@ Die Braunkrume stellt die Kornkammer von Ænos dar, sorgt sie doch mit ihren fru
 
 -------------------------
 
-
-|     | <img src="images/braunkrume.jpg" width="450" height="200"> |     |
-| --- | ---------------------------------------------------------- | --- |
-|     |                                                            |     |
+![](images/braunkrume.jpg)

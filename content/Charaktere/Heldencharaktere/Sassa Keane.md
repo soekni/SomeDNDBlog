@@ -1,7 +1,4 @@
-
-|     | <img src="images/sassa.png" width="400" height="500"> |     |
-| --- | ----------------------------------------------------- | --- |
-|     |                                                       |     |
+![](images/sassa.png)
 
 
 |         | ST  | DEX | KON | WIS | INT | CHA |

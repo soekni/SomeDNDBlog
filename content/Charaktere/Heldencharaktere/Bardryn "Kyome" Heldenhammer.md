@@ -1,7 +1,4 @@
-
-|     | <img src="images/kyome.png" width="450" height="650"> |     |
-| --- | ----------------------------------------------------- | --- |
-|     |                                                       |     |
+![](images/kyome.png)
 
 
 |         | ST  | DEX | KON | WIS | INT | CHA |

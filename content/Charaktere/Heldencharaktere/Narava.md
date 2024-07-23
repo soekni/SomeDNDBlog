@@ -1,6 +1,4 @@
-
-|     | <img src="images/narava.png" width="450" height="600"> |     |
-| --- | ------------------------------------------------------ | --- |
+![](images/narava.png)
 
 
 |         | ST  | DEX | KON | WIS | INT | CHA |

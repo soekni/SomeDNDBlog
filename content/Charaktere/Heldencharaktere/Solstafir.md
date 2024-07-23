@@ -1,7 +1,5 @@
+![](images/solstafir.png)
 
-|     | <img src="images/solstafir.png" width="600" height="600"> |     |
-| --- | --------------------------------------------------------- | --- |
-|     |                                                           |     |
 
 |         | ST  | DEX | KON | WIS | INT | CHA |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
