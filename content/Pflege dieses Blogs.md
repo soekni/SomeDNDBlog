@@ -7,15 +7,18 @@ Auf dieser Seite möchte ich auflisten, was noch auf die "Roadmap" zur technisch
 | Prio |                         Idee                         |     Status      | Ricola? |
 | :--: | :--------------------------------------------------: | :-------------: | :-----: |
 |  -   | Support für interaktives Ein- und Auszoomen in Karte | 𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ |   🗿    |
-|  2   |              Hinzufügen Kommentarspalte              |        ✨        |   🗿    |
-|  1   |             Neue Anordnung Blogeinträge              |       ⛏️        |   🗿    |
-|      |     Unterstützung für Darstellung auf Smartphone     |                 |   🗿    |
-|      |    Meme-Referenz Blogpost (ingame oder outside?)     |                 |   🐀    |
+|  -   |              Hinzufügen Kommentarspalte              |        ✅        |   🗿    |
+|  3   |             Neue Anordnung Blogeinträge*             |       ⛏️        |   🗿    |
+|  2   |     Unterstützung für Darstellung auf Smartphone     |       ⛏️        |   🗿    |
+|      |                Meme-Referenz Blogpost                |       🚩        |   🐀    |
+|  1   |            Explorer zeigt Unterordner an             |       ⛏️        |   🗿    |
+
+**\*** aller Voraussicht nach wird das auf ein Umzug der Website mit anderem *StaticSiteGenerator* (läuft momentan über *Quartz*, angepeilte Alternative ist *ObsidianPublish*) hinauslaufen. Aber dann lassen sich das Layout und Design der Blogeinträge intuitiver anpassen - auch das interaktive Ein- und Auszoomen (sowie generell das Aufrufen der Originalabbildungen) wird dadurch möglich. Wird aber noch 'ne Weile dauern.  
 
 <ins>Legende:</ins> <br>
 ⛏️ - arbeite dran <br>
 ✨ - gute Idee, muss aber noch schauen, wie leicht das einzubauen ist <br>
 👺 - we don't talk about it anymore (= hab's aufgegeben) <br>
-𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ - Implementierung möglich, aber schwer und braucht viel Magic
-
+𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ - Implementierung möglich, aber schwer und braucht viel Magic <br>
+🚩 - In Liste aufgenommen, Implementation jedoch noch nicht begonnen <br>
 **Wenn ihr auch Ideen einbringt, dürft ihr euch sogar mit einem eigenen Emoji in der Tabelle verewigen!**

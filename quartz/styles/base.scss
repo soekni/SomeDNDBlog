@@ -163,6 +163,7 @@ a {
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
+        flex-wrap: wrap;
         flex-direction: row;
         padding: 0;
         width: initial;
@@ -479,10 +480,6 @@ video {
 
 .spacer {
   flex: 1 1 auto;
-}
-
-div:has(> .overflow) {
-  position: relative;
 }
 
 ul.overflow,
