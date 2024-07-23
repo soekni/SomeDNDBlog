@@ -34,6 +34,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
+  afterBody: [
+    Component.RecentNotes({ title: "Neue Inhalte"}, { limit: 5})
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -47,8 +50,4 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [],
-  afterBody: [
-    Component.RecentNotes({ title: "Blog-Log"}, { limit: 5}),
-    Component.ArticleTitle()
-  ],
 }
