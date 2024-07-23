@@ -1,6 +1,6 @@
-![](images/Freick.jpg)
-
 Egal, ob ihr von West nach Ost, von Nord nach Süd zieht - an Freick kommt man nur schwer vorbei. Erbaut am Rande des mittleren Tinnerwalds und am Treffpunkt der großen Ost- und Südstraße, sorgt dies für ein reges Ein und Aus in diesem sonst eher gemächlichen Ort. 
+
+![](images/Freick.jpg)
 
 <u>Wirtschaft & Verwaltung:</u>
 Die Leute nutzen, was die Natur ihnen bietet. Viele Bauern geben ihr Bestes, um dem Boden in der eher klammen Hügellage Erträge abzuringen. Einige schwenkten daher auf Schaf- und Ziegenhaltung um. Mit Müller, Schmied, Jägern und Fischern sowie einer örtlichen Kräuterhexe verfügt die Ortschaft über das Nötigste, um über die teils strengen Winter zu kommen. <br>
