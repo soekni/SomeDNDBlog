@@ -9,7 +9,7 @@ Auf dieser Seite möchte ich auflisten, was noch auf die "Roadmap" zur technisch
 | :--: | :--------------------------------------------------: | :-------------: |
 |  -   | Support für interaktives Ein- und Auszoomen in Karte | 𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ |
 |  -   |              Hinzufügen Kommentarspalte              |       ⛏️        |
-|  3   |             Neue Anordnung Blogeinträge*             |       ⛏️        |
+|  3   |             Neue Anordnung Blogeinträge*             | 𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ |
 |  2   |          bessere Darstellung auf Smartphone          |       👥        |
 |  -   |                Meme-Referenz Blogpost                |       🚩        |
 |  -   |            Explorer zeigt Unterordner an             |        ✅        |
