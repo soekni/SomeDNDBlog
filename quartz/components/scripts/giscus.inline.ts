@@ -31,10 +31,10 @@ function loadComments() {
   script.type = "text/javascript"
   script.src = "https://giscus.app/client.js"
   script.async = true
-  script.setAttribute("data-repo", "rickliujh/techblog")
-  script.setAttribute("data-repo-id", "R_kgDOL6VQ_Q")
+  script.setAttribute("data-repo", "soekni/SomeDNDBlog")
+  script.setAttribute("data-repo-id", "R_kgDOMPr8cg")
   script.setAttribute("data-category", "Announcements")
-  script.setAttribute("data-category-id", "DIC_kwDOL6VQ_c4CfaND")
+  script.setAttribute("data-category-id", "DIC_kwDOMPr8cs4ChH0T")
   script.setAttribute("data-mapping", "pathname")
   script.setAttribute("data-strict", "0")
   script.setAttribute("data-reactions-enabled", "1")
