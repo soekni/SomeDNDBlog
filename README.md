@@ -4,7 +4,7 @@ My personal Quartz v4 configuration with giscus integrated. Original repo found 
 
 ## Customization
 
-- added RecentNotes function
+- added RecentNotes function (WIP)
 - slightly better mobile view (see quartz.layout.ts for details)
 
 ## Roadmap

@@ -13,4 +13,4 @@
 - 137 Jahre alt, 202cm
 - Heimat: Nimrador in Mænos 
 - max. HP (Lvl 1): 11
-- Sprachen: Gemeinsprache, Ænra, Drakonisch
+- Sprachen: Gemeinsprache, Ænar, Drakonisch
