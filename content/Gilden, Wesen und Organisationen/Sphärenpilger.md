@@ -1,0 +1,1 @@
+In der zweiten Session erfährt die Gruppe nur rudimentäre Infos zu diesen Wesen. Sie sollen ursprünglich aus anderen Welten gekommen sein. Nach dem Fall des Riesen blieb durch den plötzlichen Überfall der Brut auch keine Zeit, die Einzelheiten weiter zu erfragen.

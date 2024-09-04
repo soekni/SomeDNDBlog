@@ -1,0 +1,1 @@
+**Ideen für NPCs die ihr gerne in euren Spielen seht? Memes, Referenzen oder purer Zufall? Schreibt es gern unten in die Kommentare.** 🔮
