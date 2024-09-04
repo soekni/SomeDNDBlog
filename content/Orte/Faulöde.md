@@ -1,1 +1,1 @@
--TBC-
+Die Faulöde (offiziell: Tûlkhár) ist eine Halbinsel im Osten Mærhalls. Hier suchen vor allem die Zwerge nach ihrem Glück, das vorrangig in Unzen, Karat oder Stücken gemessen wird. 
