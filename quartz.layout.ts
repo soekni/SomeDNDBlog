@@ -5,13 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/soekni",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.Comments(),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -28,14 +22,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer(),
+    Component.Links({
+        links: {
+          GitHub: "https://github.com/soekni",
+          "Discord Community": "https://discord.gg/cRFFHYye7t",
+        },
+    }),
   ],
   right: [
     Component.Graph(),
-    Component.TableOfContents(),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-  ],
-  afterBody: [
-    Component.RecentNotes({ title: "Neue Inhalte"}, { limit: 5})
   ],
 }
 
@@ -48,6 +45,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer(),
+    Component.RecentNotes({ title: "Blog-Log"}, { limit: 5}),
   ],
   right: [],
 }
