@@ -3,14 +3,14 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 type Options = {
   provider: "giscus"
   options: {
-    repo: `${string}/${string}`
-    repoId: string
-    category: string
-    categoryId: string
-    mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
+    repo: 'soekni/SomeDNDBlog'
+    repoId: 'R_kgDOMPr8cg'
+    category: 'Announcements'
+    categoryId: 'DIC_kwDOMPr8cs4ChH0T'
+    mapping?: "url"
     strict?: boolean
     reactionsEnabled?: boolean
-    inputPosition?: "top" | "bottom"
+    inputPosition?: "bottom"
   }
 }
 
@@ -27,10 +27,10 @@ export default ((opts: Options) => {
       giscusScript.crossOrigin = "anonymous"
       giscusScript.setAttribute("data-loading", "lazy")
       giscusScript.setAttribute("data-emit-metadata", "0")
-      giscusScript.setAttribute("data-repo", "${opts.options.repo}")
-      giscusScript.setAttribute("data-repo-id", "${opts.options.repoId}")
-      giscusScript.setAttribute("data-category", "${opts.options.category}")
-      giscusScript.setAttribute("data-category-id", "${opts.options.categoryId}")
+      giscusScript.setAttribute("data-repo", "soekni/SomeDNDBlog")
+      giscusScript.setAttribute("data-repo-id", "R_kgDOMPr8cg")
+      giscusScript.setAttribute("data-category", "Announcements")
+      giscusScript.setAttribute("data-category-id", "DIC_kwDOMPr8cs4ChH0T")
       giscusScript.setAttribute("data-mapping", "${opts.options.mapping ?? "url"}")
       giscusScript.setAttribute("data-strict", "${boolToStringBool(opts.options.strict ?? true)}")
       giscusScript.setAttribute("data-reactions-enabled", "${boolToStringBool(opts.options.reactionsEnabled ?? true)}")
