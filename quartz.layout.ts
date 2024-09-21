@@ -5,8 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
+  afterBody: [Component.Comments({
     provider: 'giscus',
     options: {
       // from data-repo
@@ -17,6 +16,7 @@ export const sharedPageComponents: SharedLayout = {
       category: 'Announcements',
       // from data-category-id
       categoryId: 'DIC_kwDOMPr8cs4ChH0T',
+      reactionsEnabled: true,
     }
   }),
    ],
