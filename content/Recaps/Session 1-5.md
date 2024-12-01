@@ -29,6 +29,6 @@ Banabos eilt zu Hilfe mit seinem Schlitten. Schnell wird auf der Flucht zum Dorf
 
 Mit einigen Mühen schafft es der Kommandant, dem Würgegriff der Gefährten lang genug standzuhalten. Lang genug, auf dass seine Lakaien die Riesentöter zum Rückzug zwingen können. Sassa ist dabei so sehr am Ende, dass er dem strauchelnden Solstafir fast den Gnadenschuss versetzt. Doch auch wenn sie letztlich Banabos und Heike verlieren - das Amulett konnten sie verwahren. 
 
-Kaum sind alle an Board, stößt Banabos einen Todesschrei von sich, der sämtliche Waldbewohner im Umkreis aufzuscheuchen scheint. Bevor diese groteske Szenerie weiter betrachtet werden kann, führt beschreibt der Kolvereid eine Kurve und entreißt den Flüchtlingen diesen Anblick.
+Kaum sind alle an Board, stößt Banabos einen Todesschrei von sich, der sämtliche Waldbewohner im Umkreis aufzuscheuchen scheint. Bevor diese groteske Szenerie weiter betrachtet werden kann, beschreibt der Kolvereid eine Kurve und verschont die Flüchtlinge vor weiterem Übel.
 
 -TBC-
