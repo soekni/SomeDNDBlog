@@ -1,0 +1,1 @@
+Dieser alte Seebär hat sich zuletzt im beschaulichen Freick zur Ruhe gesetzt und verdingt sich dort mit den Aufgaben eines Fischers und auch behelfsmäßigem Jäger. Er ist nicht der gesprächigste Zeitgenosse und ganz sicher nicht in Gegenwart von [[Rodof Wackerbarth]], mit dessen "Hilfe" er die Gefährten zur Hütte von Jahia geleitete. 
