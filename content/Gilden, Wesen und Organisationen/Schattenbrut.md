@@ -1,5 +1,5 @@
 Die Schattenbrut sind verdorbene Kreaturen, die nur mit Silber endgültig zu töten sind. Vor etwa einem Jahrhundert überfielen sie Mærhalls Gefilde und brachten jenen Chaos, Zerstörung und Tod, die sich ihnen entgegenstellten.
-Der Skalde Einar erzählt in seinen Aufzeichnungen vom Verlauf dieser ersten "Verderbnis", die abrupt 501 n.H. endete. Eine Erklärung hierfür sucht man vergeblich in den Schriften.
+Der Skalde Einar erzählt in seinen Aufzeichnungen vom Verlauf dieser ersten "Verderbnis", die abrupt 501 n.H. endete. Über die Gründe finden sich nur Mutmaßungen in den Schriften.
 
 Seitdem schien die Brut wie vom Erdboden verschluckt. In den letzten Jahren jedoch häuften sich wieder Berichte von unerklärlichen Geschehnissen - dem Verschwinden einzelner Personen. Leichen, die flussabwärts treiben. Vieh, das unversehens zusammenbricht.
 

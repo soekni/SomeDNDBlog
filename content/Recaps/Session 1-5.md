@@ -31,4 +31,9 @@ Mit einigen Mühen schafft es der Kommandant, dem Würgegriff der Gefährten lan
 
 Kaum sind alle an Board, stößt Banabos einen Todesschrei von sich, der sämtliche Waldbewohner im Umkreis aufzuscheuchen scheint. Bevor diese groteske Szenerie weiter betrachtet werden kann, beschreibt der Kolvereid eine Kurve und verschont die Flüchtlinge vor weiterem Übel.
 
--TBC-
+Ziemlich erschöpft legt die Truppe ein paar Stunden später eine Rast ein - in der Hoffnung, die Brut für eine Weile abgehängt zu haben. Pello und Jahia verarbeiten ihre Verluste, Maeve sendet ein wüstes Sturmgebet gen Himmel und Kyome wird vom Händler Kurt unverhofft enttarnt. Sie weiß jedoch mit einem Schweigegeld weiteren Tratsch zu unterbinden. Sassa geht mit Kurt einen Deal ein für sein eigenes "Unternehmen". Als "Anzahlung" schwatzt er dem just arbeitslosen Händler ein paar alte Stofffetzen auf.
+
+Mit vereinten Kräften sammelt die Gruppe Ressourcen im angrenzenden Wald für den kommenden Leichenschmaus, bei dem Heike, Rodof sowie Tatze(?) gedacht wird. 
+Kyome graviert ein "Rodoof" in den Zauberring des Halblings ein - diese Grabbeigabe sollte jedoch einen anderen Tag ihren Weg zu seinem alten Träger finden, denn Pello überlässt ihn der Gruppe unter der Bedingung, Rache zu üben.
+
+In der Nacht schleicht sich ein Dryadenpaar ans Feuer und schleppt "im Namen eines gemeinsamen Freundes" einen der Angreifer an: den Goblin Chuck. Er erklärt unter großem Stammeln, dass sein Stamm zum Angriff durch die Brut gezwungen wurde. Die Gruppe glaubt ihm und lässt ihn ziehen. 

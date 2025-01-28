@@ -1,0 +1,2 @@
+- Drachenblütige, aus Ænaros
+- Mitglied der Sehergilde

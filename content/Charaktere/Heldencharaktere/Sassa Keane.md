@@ -12,5 +12,5 @@
 - Sirene, Schurke
 - 27 Jahre, 180cm
 - Heimat: Grobschnauz-Bank im Seenadel-Archipel 
-- max. HP (Lvl 1): 9
+- max. HP (Lvl 3): 22
 - Sprachen: Gemeinsprache, Sirenisch, Diebessprache
