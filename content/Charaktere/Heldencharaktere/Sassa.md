@@ -10,6 +10,7 @@
 
 **Lore:** <br>
 - Sirene, Schurke
+- voller Name: Sassa Keane
 - 27 Jahre, 180cm
 - Heimat: Grobschnauz-Bank im Seenadel-Archipel 
 - max. HP (Lvl 3): 22

@@ -10,6 +10,7 @@
 
 **Lore:** <br>
 - Zwerg, Paladin
+- voller Name: Bardryn "Kyome" Heldenhammer
 - Alter: 91 Jahre
 - Heimat: Orn'akam auf der [[Faulöde]]
 - max. HP (Lvl 1): 10

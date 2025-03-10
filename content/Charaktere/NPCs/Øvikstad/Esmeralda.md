@@ -1,5 +1,4 @@
-![[esmeralda_tok.jpg]]
 
-- Drachenblütige
-- jüngste Tochter des Solstafirs
-- Wirt im Speienden Drachen
+|                                                                                                                                                              |                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| Esmeralda, jüngste Tochter des [[Solstafir]].<br>Sie leitet seit etwa 14 Jahren das weltoffene Lokal "Zum Speienden Drachen"; hier sind alle willkommen!<br> | ![](images/esmeralda_tok.jpg) |

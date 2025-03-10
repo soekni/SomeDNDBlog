@@ -10,6 +10,7 @@
 
 **Lore:**
 - Halbelf, Kleriker
+- voller Name: Maeve Kroger
 - 28 Jahre, 170cm
 - Heimat: Øvikstad 
 - max. HP (Lvl 1): 10

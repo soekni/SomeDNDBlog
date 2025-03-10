@@ -1,17 +1,17 @@
 ### Ein riesiges Problem
 
-Am frühen Morgen des 18. Heumonds 591 n.H. fanden sich auf unterschiedlichem Wege *zufällig* die Abenteurer ein um gemeinsam einen Weg zu finden, das Dorf Freick vor der drohenden Plünderung eines Riesen zu bewahren. Hierfür werden sie von [[Pello Wackerbarth]] als einer der Vorsteher der Dorfgemeinschaft mit dem Auftrag betraut, die berühmte [[Jahia "Riesentöterin"]] in den Hügellanden am Wimmerfels um Hilfe zu ersuchen. Hierzu entsendet Pello zudem seinen Sohn [[Rodof Wackerbarth]] als Wegführer durch den kreuzenden Tinnerwald. Etwas widerwillig schließt sich zudem der alte Seemann [[Sholt]] der Gruppe an. 
+Am frühen Morgen des 18. Heumonds 591 n.H. fanden sich auf unterschiedlichem Wege *zufällig* die Abenteurer ein um gemeinsam einen Weg zu finden, das Dorf Freick vor der drohenden Plünderung eines Riesen zu bewahren. Hierfür werden sie von [[Pello Wackerbarth]] als einer der Vorsteher der Dorfgemeinschaft mit dem Auftrag betraut, die berühmte [[Jahia]] in den Hügellanden am Wimmerfels um Hilfe zu ersuchen. Hierzu entsendet Pello zudem seinen Sohn [[Rodof Wackerbarth]] als Wegführer durch den kreuzenden Tinnerwald. Etwas widerwillig schließt sich zudem der alte Seemann [[Sholt]] der Gruppe an. 
 
 ### Der "Schimmerbaum"
 
-Auf ihrem Weg zu Jahias Hütte durchqueren sie den alten [[Tinnerwald]] im Norden Freicks und stoßen auf mehrere Gefahren, die jedoch der Abenteurergruppe nicht gewachsen ist. Wenig später verirren sie sich ins Gestrüpp und stolpern auf eine uralte Lichtung, in dessen Mitte ein gigantischer Eibenbaum der Zeit trotzen zu scheint. Der Anblick löst bei [[Narava]] Nostalgie und Wehmut aus, aber auch eine tiefe Verbundenheit und den Wunsch nach Berührung. Bevor sie auf den Baum klettern kann, stolpert sie über ihre eigenen Füße: ein sich nun offenbarendes Pixie hatte ihr die Schnürsenkel verknotet! [[Sassa Keane]] nutzt als geflügelter Gefährte die Chance um sich bei einem Wettrennen mit dem drolligen Pixie "Schlummerbeer" anzufreunden. Die übrige Lichtung ist gesäumt von Statuen - zerfallend und doch von bezaubernder Anmut und einzigartigem Stil, wie dem alten Baumeister [[Solstafir]] auffällt.
+Auf ihrem Weg zu Jahias Hütte durchqueren sie den alten [[Tinnerwald]] im Norden Freicks und stoßen auf mehrere Gefahren, die jedoch der Abenteurergruppe nicht gewachsen ist. Wenig später verirren sie sich ins Gestrüpp und stolpern auf eine uralte Lichtung, in dessen Mitte ein gigantischer Eibenbaum der Zeit trotzen zu scheint. Der Anblick löst bei [[Narava]] Nostalgie und Wehmut aus, aber auch eine tiefe Verbundenheit und den Wunsch nach Berührung. Bevor sie auf den Baum klettern kann, stolpert sie über ihre eigenen Füße: ein sich nun offenbarendes Pixie hatte ihr die Schnürsenkel verknotet! [[Sassa]] nutzt als geflügelter Gefährte die Chance um sich bei einem Wettrennen mit dem drolligen Pixie "Schlummerbeer" anzufreunden. Die übrige Lichtung ist gesäumt von Statuen - zerfallend und doch von bezaubernder Anmut und einzigartigem Stil, wie dem alten Baumeister [[Solstafir]] auffällt.
 
 Ein wandernder Druide namens [[Banabos]] warnt sie wenig später vor weiterer Gefahr. Zudem stellt sich heraus, dass dieser kauzige Zeitgenosse der wankelmütige Liebhaber von der Dorfheilerin [[Heike Hexenklau]] ist, die durch Solstafir einen blumige Nachricht an den Druiden überbringen lässt. 
 
 ### Die letzte Nacht Freicks
 
 Nach dem beschwerlichen Aufstieg zum Wimmerfelsen und zur dahinterliegenden Hütte Jahia's gilt es nun, die ermattete Kriegerin zur Kooperation zu bewegen. Wenn auch zunächst störrisch, schafft es der Barde, mit dem Ehrenkodex der Freyborn die alte Riesentöterin für ein vermeintlich letztes Mal zu den Waffen zu rufen. 
-Trotz müder Beine macht sich die Truppe auf den Rückweg. Die Zeit drängt und die Dorfgemeinschaft muss auch noch zur Unterstützung bewogen werden. Bei Met und Pello's besten Wein verbringen die Dorfbewohner noch eine letzte friedvolle Nacht. Es wird getanzt, gesungen, Fehden beigelegt. Iona, ein Flüchtlingskind aus [[Hegra]], fasst erstes Vertrauen zum schuppigen Freund ihres alten Dorfskalden. Heike übergibt Solstafir zudem ein nicht mehr genutztes Notizbuch, das dem Barden als Stütze für etwaige Gedächtnislücken dienen soll. Die schüchternen Abenteurer [[Maeve Kroger]] und [[Narava]] üben sich in Konversation. Die stolze Zwergin [[Bardryn "Kyome" Heldenhammer]] indes übt sich in Kleptomanie und schafft es dem betrunkenen Rodof seinen Zauberring abzuluchsen. Sassa nutzt weiterhin jede Gelegenheit, Unterstützung für sein Vorhaben zu erlangen. So auch beim hiesigen Tavernenbesitzer. Von den Hängen des westlichen Klammwalls her beginnen Gewitterfronten gen Tal geschoben zu werden. 
+Trotz müder Beine macht sich die Truppe auf den Rückweg. Die Zeit drängt und die Dorfgemeinschaft muss auch noch zur Unterstützung bewogen werden. Bei Met und Pello's besten Wein verbringen die Dorfbewohner noch eine letzte friedvolle Nacht. Es wird getanzt, gesungen, Fehden beigelegt. Iona, ein Flüchtlingskind aus [[Hegra]], fasst erstes Vertrauen zum schuppigen Freund ihres alten Dorfskalden. Heike übergibt Solstafir zudem ein nicht mehr genutztes Notizbuch, das dem Barden als Stütze für etwaige Gedächtnislücken dienen soll. Die schüchternen Abenteurer [[Maeve]] und [[Narava]] üben sich in Konversation. Die stolze Zwergin [[Kyome]] indes übt sich in Kleptomanie und schafft es dem betrunkenen Rodof seinen Zauberring abzuluchsen. Sassa nutzt weiterhin jede Gelegenheit, Unterstützung für sein Vorhaben zu erlangen. So auch beim hiesigen Tavernenbesitzer. Von den Hängen des westlichen Klammwalls her beginnen Gewitterfronten gen Tal geschoben zu werden. 
 
 ### Die Falle schnappt zu - und zurück
 
@@ -33,7 +33,14 @@ Kaum sind alle an Board, stößt Banabos einen Todesschrei von sich, der sämtli
 
 Ziemlich erschöpft legt die Truppe ein paar Stunden später eine Rast ein - in der Hoffnung, die Brut für eine Weile abgehängt zu haben. Pello und Jahia verarbeiten ihre Verluste, Maeve sendet ein wüstes Sturmgebet gen Himmel und Kyome wird vom Händler Kurt unverhofft enttarnt. Sie weiß jedoch mit einem Schweigegeld weiteren Tratsch zu unterbinden. Sassa geht mit Kurt einen Deal ein für sein eigenes "Unternehmen". Als "Anzahlung" schwatzt er dem just arbeitslosen Händler ein paar alte Stofffetzen auf.
 
-Mit vereinten Kräften sammelt die Gruppe Ressourcen im angrenzenden Wald für den kommenden Leichenschmaus, bei dem Heike, Rodof sowie Tatze(?) gedacht wird. 
+Mit vereinten Kräften sammelt die Gruppe Ressourcen im angrenzenden Wald für den kommenden Leichenschmaus, bei dem Heike, Rodof sowie Banabos gedacht wird. 
 Kyome graviert ein "Rodoof" in den Zauberring des Halblings ein - diese Grabbeigabe sollte jedoch einen anderen Tag ihren Weg zu seinem alten Träger finden, denn Pello überlässt ihn der Gruppe unter der Bedingung, Rache zu üben.
 
 In der Nacht schleicht sich ein Dryadenpaar ans Feuer und schleppt "im Namen eines gemeinsamen Freundes" einen der Angreifer an: den Goblin Chuck. Er erklärt unter großem Stammeln, dass sein Stamm zum Angriff durch die Brut gezwungen wurde. Die Gruppe glaubt ihm und lässt ihn ziehen. 
+
+## Entstandene Memes
+
+![[rasgobel1.jpeg]]
+
+TBC:
+- Narava und die Tür

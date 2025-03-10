@@ -1,7 +1,6 @@
-![[Pasted image 20250128170544.png]]
 
-<u>Was die Abenteurer wissen:</u>
 
-- Drow-Magierin der Illusion
-- kennt Heike und Helge (und lose Jahia)
-- wurde von Silvana gefangen genommen und in eine Art Labor entführt
+|                                                                                                                                                                                                                                                                                                                                                                                           |                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| <u>Was die Abenteurer wissen:</u><br><br>Hildegard ist eine Drow-Magierin der Illusion und hat eine Gastprofessur an der Akademie zu Øvikstad inne.<br>Gleichzeitig scheint sie ihre Freizeit mit dem Brauen diverser Tränke und Pillen zu widmen.<br>Sie kennt Heike und Helge (und lose Jahia)<br>und wurde kürzlich von Silvana gefangen genommen und in eine Art Labor entführt. <br> | ![[Pasted image 20250128170544.png]] |
+
