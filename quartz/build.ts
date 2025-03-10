@@ -134,9 +134,9 @@ async function startServing(
 
   const buildFromEntry = argv.fastRebuild ? partialRebuildFromEntrypoint : rebuildFromEntrypoint
   watcher
-    .on("add", (fp) => buildFromEntry(fp, "add", clientRefresh, buildData))
-    .on("change", (fp) => buildFromEntry(fp, "change", clientRefresh, buildData))
-    .on("unlink", (fp) => buildFromEntry(fp, "delete", clientRefresh, buildData))
+    .on("add", (fp) => buildFromEntry(fp as string, "add", clientRefresh, buildData))
+    .on("change", (fp) => buildFromEntry(fp as string, "change", clientRefresh, buildData))
+    .on("unlink", (fp) => buildFromEntry(fp as string, "delete", clientRefresh, buildData))
 
   return async () => {
     await watcher.close()
@@ -157,10 +157,13 @@ async function partialRebuildFromEntrypoint(
     return
   }
 
-  const buildStart = new Date().getTime()
-  buildData.lastBuildMs = buildStart
+  const buildId = newBuildId()
+  ctx.buildId = buildId
+  buildData.lastBuildMs = new Date().getTime()
   const release = await mut.acquire()
-  if (buildData.lastBuildMs > buildStart) {
+
+  // if there's another build after us, release and let them do it
+  if (ctx.buildId !== buildId) {
     release()
     return
   }
@@ -351,12 +354,13 @@ async function rebuildFromEntrypoint(
     toRemove.add(filePath)
   }
 
-  const buildStart = new Date().getTime()
-  buildData.lastBuildMs = buildStart
+  const buildId = newBuildId()
+  ctx.buildId = buildId
+  buildData.lastBuildMs = new Date().getTime()
   const release = await mut.acquire()
 
   // there's another build after us, release and let them do it
-  if (buildData.lastBuildMs > buildStart) {
+  if (ctx.buildId !== buildId) {
     release()
     return
   }
@@ -396,10 +400,10 @@ async function rebuildFromEntrypoint(
     }
   }
 
-  release()
   clientRefresh()
   toRebuild.clear()
   toRemove.clear()
+  release()
 }
 
 export default async (argv: Argv, mut: Mutex, clientRefresh: () => void) => {
