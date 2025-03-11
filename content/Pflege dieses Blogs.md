@@ -17,7 +17,7 @@ Auf dieser Seite möchte ich auflisten, was noch auf die "Roadmap" zur technisch
 |  -   |            New Post Section im Hauptmenü             |       👥        |
 
 **\*** aller Voraussicht nach wird das auf ein Umzug der Website mit anderem *StaticSiteGenerator* (läuft momentan über *Quartz*, angepeilte Alternative ist *ObsidianPublish*) hinauslaufen. Aber dann lassen sich das Layout und Design der Blogeinträge intuitiver anpassen - auch das interaktive Ein- und Auszoomen (sowie generell das Aufrufen der Originalabbildungen) wird dadurch möglich. Wird aber noch 'ne Weile dauern.  <br>
-Stattdessen gibt es bald noch ["ausklappbare Wiki-Kapitel"](https://quartz.jzhao.xyz/features/callouts) in längeren Einträgen.
+Stattdessen gibt es *irgendwann* noch ["ausklappbare Wiki-Kapitel"](https://quartz.jzhao.xyz/features/callouts) in längeren Einträgen.
 
 <ins>Legende:</ins> <br>
 ⛏️ - arbeite dran <br>
@@ -25,4 +25,4 @@ Stattdessen gibt es bald noch ["ausklappbare Wiki-Kapitel"](https://quartz.jzhao
 👺 - we don't talk about it anymore (= hab's aufgegeben) <br>
 𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ - Implementierung möglich, aber schwer und braucht viel Magic <br>
 🚩 - In Liste aufgenommen, Implementation jedoch noch nicht begonnen <br>
-👥 - hab's "verschlimmbessert": Lasst mich wissen, was verbessert werden kann. <br>
+👥 - hab's "verschlimmbessert" LOL <br>

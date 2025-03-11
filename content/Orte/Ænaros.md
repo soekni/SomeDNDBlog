@@ -1,0 +1,2 @@
+Das Königreich im Süden der Insel und eine Hochburg des Fortschritts, wie es Jarl Myntor wohl sieht. Der Barde [[Solstafir]] kommt aus diesen Landen. 
+Die Kultisten sprachen in Ænar - was hat das zu bedeuten?

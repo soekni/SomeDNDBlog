@@ -78,7 +78,7 @@ Indes hat sich vor der Hornburg ein Mob formiert, angeführt vom angeschlagenen 
 Sowohl in als auch vor der Burg wurde bekannt, dass das brennende Haus kein geringeres war als Helge's. Dies treibt den Jarl weiter in die Enge, bringt ihn weiter in Erklärungsnot. Der Brand soll gelegt worden sein, lediglich ein Stück Papier, eingeklemmt am Türrahmen, entfloh den Flammen. Merkwürdigerweise war an dieses Papier ein Stückchen Seegurke befestigt. 
 
 📌
-
+Ein Kundschafter bringt kurz darauf die nächste Nachricht: Ein Bauer soll im Gasthaus "Waldgesang" im Norden Øvikstads den "Prinzen" gesehen haben. Zwar reise er inkognito, Brams goldene Kette sei dem Bauern aber im Gedächtnis geblieben. 
 Myntor überdenkt seinen ursprünglichen Plan und bittet die Gefährten, nun auch Helge zu finden und zurückzubringen - sein Ansehen hinge davon ab. Sassa fragt, was für ihn und die anderen dabei heraus spränge und er fragt nach dem "Kubus der Macht". Myntor weiß nichts von einem solchen Gegenstand. [[Hildegard von Bingen]] horcht auf, sagt aber nichts. 
 Der Jarl verspricht ihm im Gegenzug den "sonderbarsten" Gegenstand, den er auftreiben kann.  
 📌
