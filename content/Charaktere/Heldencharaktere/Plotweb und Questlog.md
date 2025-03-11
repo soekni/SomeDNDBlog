@@ -1,6 +1,8 @@
 
-Hier ein Link zu einer [Mindmap](https://excalidraw.com/#json=MbjCEC5l1DxkqnFFKt_ZY,uW9QyanvGaWdvlKWxxj-3Q) (schreibgeschützt) um die Übersicht zu behalten und die Art und Weise, wie ihr alle miteinander in Beziehung steht, nach und nach zu offenbaren.
+Hier ein Link zu einer [Mindmap](https://excalidraw.com/#json=MbjCEC5l1DxkqnFFKt_ZY,uW9QyanvGaWdvlKWxxj-3Q) (schreibgeschützt*) um die Übersicht zu behalten und die Art und Weise, wie ihr alle miteinander in Beziehung steht, nach und nach zu offenbaren.
 Ich erhebe keinen Anspruch auf Vollständigkeit, doch ich denke dass dies gut zusammenfasst, was eure Charaktere bisher wissen/gehört haben. 
+
+\*falls beim Öffnen des Links eine Warnmeldung erscheint, klickt auf "Replace my content".
 
 Wenn ihr während der Session mitmalen wollt, sollte das über diesen [LiveSessionLink](https://excalidraw.com/#room=9de6ce5b5b1023b237d2,wA-xBPiOio8Ur60mcVJohA) funktionieren? (Kann auch sein, dass die Session abgebrochen wurde, dann refreshe ich den Link)
 
