@@ -8,3 +8,7 @@ Zudem sorgt die Residenz des Jarls von Øvikstad für weitere Sicherheitsvorkehr
 - derzeit treiben wohl Überfälle von Sirenen die Handels- und Seeleute in und um Øvikstad um
 - Helge, einer der bekannten Köpfe der hiesigen Akademie, scheint einen allgemein bekannten Disput mit [[Jarl Myntor]] zu haben
 - kürzlich wurde ein neuer Schutzzoll erhoben
+
+## Karte
+
+![[ovikstad.jpg]][Link zum Original](https://soekni.allsync.com/s/TiFX9xT7CrYEfZn)
