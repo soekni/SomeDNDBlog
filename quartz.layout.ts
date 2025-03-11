@@ -42,7 +42,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer(),
-    Component.RecentNotes({ title: "Neue Inhalte"}, { limit: 3}),
+    Component.RecentNotes({title: "Neue Inhalte"}, { limit: 3}, {filter: (file) => {
+      return file.frontmatter?.post === true}}),
   ],
   right: [
     Component.Graph(),
