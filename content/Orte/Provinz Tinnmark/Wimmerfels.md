@@ -1,0 +1,1 @@
+Ort eures ersten Abenteuers - hinter dem kleinen Wasserfall und dem Harpyiennest trefft ihr am Ende des 19. Heumonds auf Jahia. Die Strömung schnitt eine Art Gesicht in den Stein, was der Anhöhe ihren Namen gab.

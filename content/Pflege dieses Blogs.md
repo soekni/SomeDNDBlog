@@ -8,13 +8,13 @@ Auf dieser Seite möchte ich auflisten, was noch auf die "Roadmap" zur technisch
 | Prio |                         Idee                         |     Status      |
 | :--: | :--------------------------------------------------: | :-------------: |
 |  -   | Support für interaktives Ein- und Auszoomen in Karte | 𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ |
-|  -   |              Hinzufügen Kommentarspalte              |       ⛏️        |
-|  3   |             Neue Anordnung Blogeinträge*             | 𓃶 🜏 𖤐 𐕣 ⁶⁶⁶ |
-|  2   |          bessere Darstellung auf Smartphone          |       👥        |
-|  -   |                Meme-Referenz Blogpost                |       🚩        |
+|  -   |              Hinzufügen Kommentarspalte              |        ✅        |
+|  3   |             Neue Anordnung Blogeinträge*             |       ⛏️        |
+|  2   |          bessere Darstellung auf Smartphone          |        ✅        |
+|  -   |                Meme-Referenz Blogpost                |       ⛏️        |
 |  -   |            Explorer zeigt Unterordner an             |        ✅        |
 |  1   |                    Callout-Blocks                    |       ⛏️        |
-|  -   |            New Post Section im Hauptmenü             |       👥        |
+|  -   |            New Post Section im Hauptmenü             |        ✨        |
 
 **\*** aller Voraussicht nach wird das auf ein Umzug der Website mit anderem *StaticSiteGenerator* (läuft momentan über *Quartz*, angepeilte Alternative ist *ObsidianPublish*) hinauslaufen. Aber dann lassen sich das Layout und Design der Blogeinträge intuitiver anpassen - auch das interaktive Ein- und Auszoomen (sowie generell das Aufrufen der Originalabbildungen) wird dadurch möglich. Wird aber noch 'ne Weile dauern.  <br>
 Stattdessen gibt es *irgendwann* noch ["ausklappbare Wiki-Kapitel"](https://quartz.jzhao.xyz/features/callouts) in längeren Einträgen.
