@@ -49,7 +49,20 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
-  afterBody: [],
+  afterBody: [Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'soekni/SomeDNDBlog',
+      // from data-repo-id
+      repoId: 'R_kgDOMPr8cg',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOMPr8cs4ChH0T',
+      reactionsEnabled: true,
+    }
+  })],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
