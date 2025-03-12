@@ -19,6 +19,7 @@ import { options } from "./util/sourcemap"
 import { Mutex } from "async-mutex"
 import DepGraph from "./depgraph"
 import { getStaticResourcesFromPlugins } from "./plugins"
+import { randomIdNonSecure } from "./util/random"
 
 type Dependencies = Record<string, DepGraph<FilePath> | null>
 
@@ -157,7 +158,7 @@ async function partialRebuildFromEntrypoint(
     return
   }
 
-  const buildId = newBuildId()
+  const buildId = randomIdNonSecure()
   ctx.buildId = buildId
   buildData.lastBuildMs = new Date().getTime()
   const release = await mut.acquire()
@@ -354,7 +355,7 @@ async function rebuildFromEntrypoint(
     toRemove.add(filePath)
   }
 
-  const buildId = newBuildId()
+  const buildId = randomIdNonSecure()
   ctx.buildId = buildId
   buildData.lastBuildMs = new Date().getTime()
   const release = await mut.acquire()
