@@ -1,0 +1,1 @@
+Eine kleine Steppenlandschaft, welche von Rissen und Kratern gesäumt ist. Aus manchen soll bisweilen heißes Wasser sprudeln. Eine Attraktion und günstige Gelegenheit zugleich, den Dreck vom Leib zu schrubben. Allerdings mahnen nicht wenige an, Obacht zu geben. Schließlich ziehen diese Gefilde nicht nur Menschen, Elfen und Zwerge an.

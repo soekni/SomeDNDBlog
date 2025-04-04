@@ -1,1 +1,1 @@
-Zwischen den Ausläufern des Tinnerwalds und Klammwalls liegt das kleine Dorf Hegra. Es dient Reisenden eher als kurzer Wegstopp als dass es zum Bleiben einlädt. Bei etwa 50 Einwohnern und der eher schauerlichen Umgebung ist das jedoch nicht verwunderlich. 
+Zwischen den Ausläufern des [[Tinnerwald]]s und Klammwalls liegt das kleine Dorf Hegra. Es dient Reisenden eher als kurzer Wegstopp als dass es zum Bleiben einlädt. Bei etwa 50 Einwohnern und der eher schauerlichen Umgebung ist das jedoch nicht verwunderlich. 

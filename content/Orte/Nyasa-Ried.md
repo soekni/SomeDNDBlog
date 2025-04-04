@@ -1,0 +1,1 @@
+Auf ihrer Flucht aus Freick mussten die geschwächten Riesentöter entscheiden, an welchem Ufer des Kolvsa-Sees sie wohl rasten mögen. Die Wahl fiel nicht schwer, luden die sumpfig-trüben Schwaden der anderen Seite doch wenig ein. 
