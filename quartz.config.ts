@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Uncial Antiqua",
-        body: "Macondo Swash Caps",
+        body: "Luxurious Roman",
         code: "Fira Code",
       },
       colors: {
