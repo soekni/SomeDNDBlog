@@ -1,2 +1,9 @@
 @use "./base.scss";
 // put your custom CSS here!
+embed#plugin {
+  width: 100%;
+  min-width: 100%;
+}
+iframe.pdf {
+  width: 100%;
+}
