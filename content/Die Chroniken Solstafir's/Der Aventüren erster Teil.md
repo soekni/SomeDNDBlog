@@ -1,2 +1,2 @@
 
-![[Book_Template.pdf]]
+![[Preview_Journal.pdf]]
